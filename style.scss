@@ -47,21 +47,23 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: white;
   }
 }
 
 h2 {
   font-size: 24px;
+	color: $white;
 }
 
 h3 {
   font-size: 20px;
+	color: $white;
 }
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $white;
 }
 
 p {
